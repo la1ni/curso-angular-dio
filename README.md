@@ -10,3 +10,6 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Angula
    - Projeto de um componente de site de notícias, construído utilizando HTML, CSS e JavaScript
    - Principais conceitos abordados: *DOM*, *Shadow DOM*, *Element*, *Component*, *Props*.
    
+2. **[ts-para-angular](./ts-para-angular)**
+   - O README deste projeto contém as bases do Typescript para posterior aplicação em Angular
+   - Principais conceitos abordados: *Tipos*, *Objetos*, *Arrays*, *Interfaces*, *Funções*, *Classes*, *Generics* e *Decorators*.
