@@ -13,3 +13,7 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Angula
 2. **[ts-para-angular](./ts-para-angular)**
    - O README deste projeto contém as bases do Typescript para posterior aplicação em Angular
    - Principais conceitos abordados: *Tipos*, *Objetos*, *Arrays*, *Interfaces*, *Funções*, *Classes*, *Generics* e *Decorators*.
+
+3. **[first-angular-project](./first-angular-project)**
+   - Neste projeto, foram criados componentes reutilizáveis simples utilizando o Angular. Além disso, ele foi usado para o estudo prático de como funcionam os tipos de Data Binding. 
+   - Principais conceitos abordados: *Componentes Reutilizáveis*, *Data Binding*.
