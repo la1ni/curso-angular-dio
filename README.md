@@ -17,3 +17,6 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Angula
 3. **[first-angular-project](./first-angular-project)**
    - Neste projeto, foram criados componentes reutilizáveis simples utilizando o Angular. Além disso, ele foi usado para o estudo prático de como funcionam os tipos de Data Binding. 
    - Principais conceitos abordados: *Componentes Reutilizáveis*, *Data Binding*.
+
+4. **[life-cycle](./life-cycle)**
+   - Este projeto contém componentes simples criados em Angular, um de título e outro de contador, para praticar e exemplificar o comportamento de hooks e respectivos ciclos de vida
