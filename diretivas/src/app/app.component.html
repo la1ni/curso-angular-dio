@@ -1,0 +1,12 @@
+<app-atributos>
+<h2>componente teste </h2>
+</app-atributos>
+
+<app-card *ngIf="isAlive; else outroBloco "></app-card>
+
+<ng-template #outroBloco>
+  <p>Bloco alternativo cujo alias é #outroBloco</p>
+</ng-template>
+
+<router-outlet><router-outlet />
+

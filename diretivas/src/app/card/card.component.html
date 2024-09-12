@@ -1,0 +1,10 @@
+<p>Olá mundo</p>
+
+<button (click)="clicar()"> Exibir </button>
+
+<ul *ngIf="mostrarProdutos">
+  <li *ngFor="let p of produtos">{{p}}</li>
+  <p><input type="text" [(ngModel)]="usuarioInput" (click)="apagarTexto()" (keydown.enter)="adicionar()"> <button (click)="adicionar()">Adicionar</button> </p>
+  <p><button (click)="remover()"> Remover </button></p>
+</ul>
+
