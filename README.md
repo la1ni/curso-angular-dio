@@ -20,3 +20,6 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Angula
 
 4. **[life-cycle](./life-cycle)**
    - Este projeto contém componentes simples criados em Angular, um de título e outro de contador, para praticar e exemplificar o comportamento de hooks e respectivos ciclos de vida
+
+5. **[diretivas](./diretivas)**
+   - O projeto em questão tem como objetivo explorar o uso de diretivas no Angular, tanto estruturais quanto de atributo. Ele utiliza diretivas estruturais como *ngIf, *ngFor e *ngSwitch para controlar a renderização de elementos na página com base em condições, loops e escolhas múltiplas. Além disso, é tratato também a respeito de diretivas de atributo, como ngClass, ngStyle e ngModel, para modificar dinamicamente o comportamento visual e de dados dos componentes.
